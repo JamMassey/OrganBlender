@@ -1,0 +1,12 @@
+numpy 
+pydicom
+opencv-python
+pandas
+SimpleITK
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git@9e1eb9fdbc4bca4cd0d948b8ae7fe505d9f4ebc7
+scipy
+pycocotools 
+matplotlib
+torch 
+torchvision 
+torchaudio
